@@ -1,0 +1,16 @@
+{
+  "name": "qualquer-nome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "Zaiko Xander",
+  "license": "MIT",
+  "comment": "major.minor.patch -- dependencies version"
+}
