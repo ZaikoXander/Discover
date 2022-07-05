@@ -1,0 +1,15 @@
+{
+  "nome": "Zaiko Xander",
+  "cidade": "Praia Grande",
+  "telefone": 891786448216,
+  "livros_favoritos": [
+    "harry potter 1",
+    "harry potter 2"
+  ],
+  "hobbies": {
+    "semana": "videogame",
+    "fim_de_semana": {
+      "domingo": "RPG"
+    }
+  }
+}
