@@ -1,0 +1,50 @@
+.cardContainer {
+  position: relative;
+  height: 100px;
+  width: 50%;
+
+  background: #735BF2;
+  color: #FFF;
+
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 24px;
+}
+
+.card strong {
+  font-size: 18px;
+}
+
+.delete {
+  height: 100px;
+  width: 76px;
+
+  background: rgb(255, 0, 64);
+
+  border-radius: 0px 10px 10px 0px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.delete:hover {
+  width: 116px;
+}
